@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627338933 source:c:\users\sofia\onedrive\desktop\utn\laboratorio 1 - programacion 1\benitez.sofiarspprogi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
